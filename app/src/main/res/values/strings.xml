@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_inventory">Inventory</string>
+    <string name="title_barcodescan">Barcode Scan</string>
+    <string name = "title_recipes">Recipes</string>
+</resources>
